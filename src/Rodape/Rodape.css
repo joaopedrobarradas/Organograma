@@ -1,0 +1,16 @@
+.fundo__rodape {
+    height: 150px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: #637bf4;
+}
+
+.redes__organo {
+    display: flex;
+    gap: 30px;
+}
+
+.rodape__frase {
+    color: #ffff;
+}
